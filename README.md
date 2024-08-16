@@ -5,7 +5,7 @@
 1. 运行以下命令下载并运行 DDNS 更新脚本：
 
     ```bash
-    curl -L "https://file.xiercloud.uk/cf-v4-ddns.sh" -o cf-v4-ddns.sh && chmod +x cf-v4-ddns.sh && ./cf-v4-ddns.sh
+    curl -L "https://raw.githubusercontent.com/jiuerkeji/ddns-cf-debian-ubuntu-centos-alpine/main/cf-v4-ddns.sh" -o cf-v4-ddns.sh && chmod +x cf-v4-ddns.sh && ./cf-v4-ddns.sh
     ```
 
 
